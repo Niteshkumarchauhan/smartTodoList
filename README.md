@@ -133,10 +133,5 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-<p align="center">Made with ❤️ using React</p>
+<p align="center">Made with ❤️ by Nitesh Kumar Chauhan</p>
+<p align="center">⭐ If you like this project, give it a star!</p>
